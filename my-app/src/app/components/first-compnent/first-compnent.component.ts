@@ -9,4 +9,5 @@ export class FirstCompnentComponent {
 name: string = 'Andrei'
 age: number = 40
 job: string = 'Programador'
+// registro dos dados que serao puxados pelo componente
 }
