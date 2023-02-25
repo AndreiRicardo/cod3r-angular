@@ -1,0 +1,27 @@
+h1{
+    color: blue;
+    background: black;
+    padding: 15px;
+}
+h2{
+    color: blueviolet;
+    background: black;
+    padding: 15px;
+}
+h3{
+    color: yellow;
+    background: black;
+    padding: 15px;
+    width: 150px;;
+}
+h4{
+    color: brown;
+    background: black;
+    padding: 15px;
+    width: 50%;
+}
+p{
+    color:crimson;
+    background: wheat;
+    padding: 25px;
+}
